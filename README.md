@@ -10,3 +10,4 @@ The objective is to create a Tableau dashboard to analyze the relationship betwe
 ## Result:
 - Rent Prices for bedrooms are increasing over time, no of Beadrooms
 - No. of listings decreases with increase in no. of bedrooms
+- Rent Prices are highest for the Zipcode 98101
